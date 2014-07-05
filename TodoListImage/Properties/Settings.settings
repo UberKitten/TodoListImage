@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TodoListImage.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TodoPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Z:/Dropbox/todo.txt</Value>
+    </Setting>
+    <Setting Name="ImageDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Z:/Dropbox/Random Junk/Background</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
