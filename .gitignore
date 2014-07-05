@@ -1,6 +1,4 @@
-
-<!-- saved from url=(0078)https://raw.githubusercontent.com/T3hUb3rK1tten/IronmanTrack/master/.gitignore -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body class=" hasGoogleVoiceExt" style="zoom: 1;"><pre style="word-wrap: break-word; white-space: pre-wrap;">###################
+###################
 # compiled source #
 ###################
 *.com
@@ -59,4 +57,4 @@ TestResults/
 .DS_Store?
 ehthumbs.db
 Icon?
-Thumbs.db</pre></body></html>
+Thumbs.db
